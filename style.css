@@ -58,7 +58,7 @@ p{
 .second-banner{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
 }
 #second-banner-text{
     margin-top: 120px;
