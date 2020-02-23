@@ -59,6 +59,7 @@ p{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
     background-position: center;
+    margin-top: 100px;
 }
 #second-banner-text{
     margin-top: 130px;
@@ -71,7 +72,7 @@ p{
     background-position: center;
     padding-right: 12%;
     padding-left: 8%;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 .third-width{
@@ -88,7 +89,69 @@ p{
 }
 
 #third-h2{
+    text-align: center;
     font-size: 30px;
     font-weight: 800;
     margin-top: 60px;
+}
+
+.fourth-banner{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 50px;
+}
+
+.fourth-width{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+}
+
+.fourth-width h1{
+    font-size: 35px;
+}
+
+.fourth-width h2{
+    margin-top: 50px;
+}
+
+.fourth-width h3{
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.fourth-width h4{
+    font-size: 15px;
+    color: darkgrey;
+}
+
+#second-h2{
+    margin-top: 0px;
+}
+
+.last-button{
+    margin-top: 100px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-image: linear-gradient(45deg, rgb(241, 3, 122), pink);
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+.last-button h1{
+    font-size: 35px;
+}
+
+.last-button h3{
+    font-size: 25px;
+}
+
+footer{
+    color: darkgrey;
+    text-align: center;
 }
